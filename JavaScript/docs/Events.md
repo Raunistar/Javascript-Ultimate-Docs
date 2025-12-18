@@ -7,7 +7,7 @@ An event is a notification that something happened in the browser.
 Example:
 
 - User clicks a button
-- Yser type in an input box
+- User type in an input box
 - Page finishes loading
 - Dom Element Loaded
 - Network request completes
