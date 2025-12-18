@@ -103,7 +103,7 @@ console.log("End")
 ```code
 Start
 End
-Timer dome
+Timer done
 ```
 
 #### Conclusion:
