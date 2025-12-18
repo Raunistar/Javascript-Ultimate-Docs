@@ -321,7 +321,7 @@ Received: Hello from custom event!
     stopImmediatePropagation() is stronger than stopPropagation() since it does not allow any handler to execute again.
 
     When to use:
-    - You want Exactly One Listener to respond
+    - You want Exactly One Listener to respond for just one time. 
     - You need to cancel other listeners on the same element.
 
     Example:
