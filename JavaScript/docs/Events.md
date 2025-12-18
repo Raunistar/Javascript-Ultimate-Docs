@@ -193,7 +193,7 @@ document.getElementById("list").addEventListener("click", function (e) {
 
 4. Use Passive listener to improve scroll performance
 
-    So what happens is when some events are high frequency events that for each event if handler is called sometime browse has to pause the event till handler finishes and that result to frame drops and bad ux.
+    So what happens is when some events are high frequency events that for each event if handler is called sometime browser has to pause the event till handler finishes and that result to frame drops and bad ux.
 
     so to handle that we can make an event handler passive in that case browser will not wait for the handler execution it will continue.
 
