@@ -363,7 +363,7 @@ this === global // false (module scope)
 #### Function Execution Context (FEC)
 
 - Created every time a function is called.
-- Each Function gets it own execution context
+- Each Function get its own execution context
 
 #### Execution Context Phase
 
