@@ -103,7 +103,7 @@ Child bubbling
 Parent bubbling
 ```
 
-Now order is reversed since parent and child both has listener for that event both of their listener will be called but first child the parent because we are in bubbling phase.
+Now order is reversed since parent and child both has listener for that event both of their listener will be called but first child then parent because we are in bubbling phase.
 
 ## What is Event Delegation?
 
